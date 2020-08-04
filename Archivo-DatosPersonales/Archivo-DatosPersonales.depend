@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596577377 source:c:\users\acer\desktop\liz\archivo-datospersonales\main.cpp
+	<iostream>
+	<fstream>
+
